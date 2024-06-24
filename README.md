@@ -13,7 +13,7 @@ Estou atualmente fazendo diversos cursos na parte de front-end, estou em busca d
 ##### My Stats
 
 <div align="center">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=raphaelrsalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=raphaelrsalerno&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrsalerno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
