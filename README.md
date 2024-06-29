@@ -7,13 +7,13 @@ Estou atualmente fazendo diversos cursos na parte de front-end, estou em busca d
 
 -🌱 Além dos estudos em minha faculdade, faço diversos cursos na plataforma Udemy e em outras plataformas.
 
--📫 Meu email de contanto: raphaelrsalerno@gmail.com
+-📫 Meu email de contato: raphaelrsalerno@gmail.com
 
 
 ##### My Stats
 
 <div align="center">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=raphaelrsalerno&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=raphaelrsalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrsalerno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
